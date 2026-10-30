@@ -40,7 +40,6 @@ secrets/
 
 ### Logs ###
 logs/
-*.log
 *.out
 
 ### IntelliJ IDEA ###
